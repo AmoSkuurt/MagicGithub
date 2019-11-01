@@ -1,4 +1,6 @@
 # MagicGithub
+![magic](https://user-images.githubusercontent.com/25436588/68020645-65d57b80-fc9f-11e9-9ab0-2b5df58cfdc4.png)
+
 1.Nom de l’application : MagIC Github <br/>
 2.Fonctionnalité : lister des utilisateurs inscrits sur GitHub <br/>
 3.Tests unitaires : créés <br/>
