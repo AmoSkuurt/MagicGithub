@@ -26,7 +26,6 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public void generateRandomUser() {
-        this.getUsers();
         Random userRandom = new Random();
         userRandom.nextInt();
         this.getUsers().add(User.random());
@@ -37,7 +36,6 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public void deleteUser(User user) {
-        this.getUsers();
         users.remove(user);
     }
 }
